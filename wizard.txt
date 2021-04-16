@@ -1,0 +1,5 @@
+name="TangFlix Build"
+url="https://www.dropbox.com/s/lm1hikspsp05xq0/TangFlix%20Build.zip?dl=1"
+img="https://raw.githubusercontent.com/ryantang30/TangFlix/main/icon.png"
+fanart="https://raw.githubusercontent.com/ryantang30/TangFlix/main/fanart.jpg"
+description="TangFlix"
